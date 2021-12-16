@@ -1,0 +1,28 @@
+{
+    "Header": {
+        "Login":"a[href='/login']",
+        "Register": "a[href='/register']"
+    },
+
+    "LoginPage": {
+        "EmailInput": "#email",
+        "PasswordINput": "#password",
+        "SubmitButton": "button[type='submit']"
+    },
+
+    "Logout": {
+        "LogoutButton": "#app"
+    },
+
+    "Register": {
+        "Register": "a[href='/register']",
+        "FirstName": "#first-name",
+        "LastName": "#last-name",
+        "Email": "#email",
+        "Password": "#password",
+        "PasswordConfirmed": "#password-confirmation",
+        "Termsandconditions": "#app",
+        "SubmitButton": "button[type='submit']",
+        "SubmitBut": "input[type='checkbox']"
+    }
+}
